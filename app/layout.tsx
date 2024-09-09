@@ -14,6 +14,10 @@ import { ClerkProvider } from "@clerk/nextjs";
 //   variable: "--font-ibm-plex",
 //   weight: ['400','500'],
 // });
+
+// #MongoDB
+// # username : dusadeepika28
+// #pass: yOx57vL368Nu7suB
 const IBMPlex = IBM_Plex_Sans({ 
   subsets: ["latin"],
   weight: ['400', '500', '600', '700'],
